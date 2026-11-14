@@ -1,0 +1,12 @@
+name = "nuroia-bot"
+main = "worker.js"
+compatibility_date = "2024-09-23"
+
+[vars]
+CHANNEL_ID  = "@Nuroia_Panel"          
+GROUP_ID    = -1004335117777"         
+CHANNEL_URL = "https://t.me/Nuroia_Panel"
+GROUP_URL   = "https://t.me/+k-HtpMBOmiZmYTE0"
+PANEL_SRC_URL = "https://raw.githubusercontent.com/artinvx/Nuroia-/main/panel/worker.js"
+
+
